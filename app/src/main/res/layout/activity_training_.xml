@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Training_Activity">
+
+    <Button
+        android:onClick="myTrainings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="My Trainings"
+        android:layout_marginTop="50dp"
+        ></Button>
+
+    <Button
+        android:onClick="userDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:text="User Details"></Button>
+
+    <Button
+        android:id="@+id/Start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="50dp"
+        android:text="Start"
+        android:onClick="start"></Button>
+    <Button
+        android:id="@+id/Stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="260dp"
+        android:text="Stop"
+        android:onClick="stop"></Button>
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:text="Timer"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="120dp"
+        android:text="Time:"
+        ></TextView>
+    <EditText
+        android:id="@+id/kilometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="290dp"
+        android:hint="Enter the Value of KM "
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"></EditText>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="360dp"
+        android:text="Complete Training"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        ></Button>
+
+
+</RelativeLayout>
