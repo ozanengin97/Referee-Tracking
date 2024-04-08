@@ -1,19 +1,25 @@
 # Referee-Tracking
 
 Login Page</br>
-![1](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/a5ae61ad-78eb-46be-bb16-2ec76fdf95c0)
+![1](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/642e5a47-0703-4997-911f-8bb01208630b)
 
 Main Page</br>
-![2](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/2b0fff37-03a7-4931-9dbb-2df6875ae64c)
+![2](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/1ecf1de3-728b-4b52-b0b1-78b8c348ea5a)
 
 Main Page</br>
-![3](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/c11b37e5-39a5-4485-a4e2-9426ea263381)
+![3](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/c439b245-3900-4572-be0e-9a95816055dd)
 
 My Trainings Page</br>
-![4](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/ac429b1e-f941-4bbb-86ac-d16957837fe7)
+![4](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/55c8f394-6df2-4682-80f8-bc31f54237ad)
 
 User Details Page</br>
-![5](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/0235dfc4-ed57-4e66-b013-f715073bb12c)
+![5](https://github.com/ozanengin97/Referee-Tracking/assets/32339958/533d7466-82dd-4455-8e1e-f1fcfcca45c4)
+
+
+
+
+
+
 
 
 
